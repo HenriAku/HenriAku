@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis en BUT informatique , j'apprend a developper .
+Je suis en BUT informatique , j'apprend à developper .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-rougeolle-16b31930b/) 
