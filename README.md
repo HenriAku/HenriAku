@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henri</h1>
 
 # 💫 About Me:
-- J'ai réalisé une application Inazuma Dle (trouver des personnages ou autres avec des indices).<br>- Avec une équipe d'étudiants, nous avons créé une application pour générer des questionnaires et créer des questions.<br>
+- J'ai réalisé une application Inazuma Dle (trouver des personnages ou autres avec des indices).<br> - Avec une équipe d'étudiants, nous avons créé une application pour générer des questionnaires et créer des questions.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henri-rougeolle) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsAkuuu_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rougeollehenri@gmail.com) 
